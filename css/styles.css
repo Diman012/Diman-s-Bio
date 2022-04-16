@@ -1,0 +1,40 @@
+  body {
+      background-color: powderblue;
+    }
+
+    hr {
+      border-color:grey;
+      border-width:7px;
+      border-style: none;
+      border-top-style:dotted;
+      height:0px;
+      width:10%;
+    }
+
+    h1 {
+      color:#D49B54;
+      font: italic 3em "Fira Sans", serif;
+    }
+
+    h3 {
+      color:#D49B54;
+      font-size:1.7em;
+      border-color:green;
+      border-bottom-style:ridge;
+      width:20%
+    }
+
+    p {
+      font: 1.2em "Fira Sans", sans-serif;
+    }
+
+    a:hover {
+      font-size:2em;
+      color:red;
+    }
+
+    img:hover {
+      border-style:dotted;
+      border-width:1.3em;
+      border-color:green;
+    }
